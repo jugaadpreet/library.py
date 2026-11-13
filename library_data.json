@@ -1,0 +1,10 @@
+{
+    "books": [
+        "Python",
+        "C++ Basics",
+        "SQLAlchemy",
+        "Web Development",
+        "Algorithms by CLRS"
+    ],
+    "lends": {}
+}
